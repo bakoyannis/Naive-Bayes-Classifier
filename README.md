@@ -1,1 +1,1 @@
-# Naive-Bayes-Classifier
+# A simple Naive Bayes implementation.
